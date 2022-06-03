@@ -1,0 +1,16 @@
+body{
+    background-color: crimson;
+    color: black;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.list_of_objects{
+color: darkorchid;
+}
+#camera{
+    border:2px dotted black;
+    width:350px;
+    height:300px;
+}
